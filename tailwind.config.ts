@@ -18,6 +18,17 @@ const config = {
       },
     },
     extend: {
+      colors:{
+        "mycolor":{
+          100:"#000000",
+          200:"#ffd966",
+          300:"#fbc439",
+          400:"#F9FAFB",
+          500:"#ffffff",
+          600:"#e0e0e0",
+          700:"#bdbdbd"
+        }
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
