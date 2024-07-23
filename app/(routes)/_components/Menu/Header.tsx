@@ -5,6 +5,8 @@ import { Pacifico } from 'next/font/google'
 import React from 'react'
 import NavMenu from './NavMenu'
 import { Button } from '@/components/ui/button'
+import MobileMenu from './MobileMenu'
+import CartMenu from './Cart'
 
 const pacifiko = Pacifico({subsets:["cyrillic"], weight:"400"})
 
@@ -25,10 +27,12 @@ const Header = () => {
 
             </div>
             <div className='flex flex-row items-center space-x-3'>
+            <ModeToggle/>
                <Heart/>
-               <ShoppingBagIcon/>
+              <CartMenu/>
                <UserIcon/>
-               <ModeToggle/>
+             
+               <MobileMenu/>
             </div>
 
         </div>
