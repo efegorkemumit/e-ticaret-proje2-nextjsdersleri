@@ -11,3 +11,8 @@
 - 00:22 Kurulum ve Ayarlar 
 - 18:23 Dark Mode ve Shdcn Giriş
 
+## Next.js Eğitimi: Shadcn Bölüm 1  Input, Navigation ve Sheet  Menu   | 7. Gün | Proje 2 E-Ticaret Sitesi
+
+- 00:00 Liste
+- 00:22 Button, Input Navigation Menu  
+- 21:30 Sheet Mobile Menu Shdcn Kullanım
