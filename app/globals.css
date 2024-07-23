@@ -10,3 +10,7 @@
 .bgHeader{
     @apply bg-mycolor-300 hover:bg-mycolor-300 dark:text-black dark:bg-mycolor-300 dark:hover:bg-mycolor-300 !important;
 }
+
+.activeHeader{
+    @apply underline !important
+}
