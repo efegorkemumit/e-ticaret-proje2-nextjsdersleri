@@ -14,3 +14,11 @@
 .activeHeader{
     @apply underline !important
 }
+
+.validatLabel{
+    @apply text-black dark:text-white  !important;
+}
+
+.validatError{
+    @apply text-red-700 dark:text-red-400  !important;
+}

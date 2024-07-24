@@ -6,7 +6,7 @@ interface AuthLayoutProps {
 }
 const AuthLayout = ({ children }: AuthLayoutProps) => {
     return (
-        <div className='flex flex-row items-center justify-center'>
+        <div className='flex flex-row items-center justify-center space-x-14'>
             <div className='hidden lg:block lg:w-2/5 h-screen'>
                 <Image
                     alt="logo"
