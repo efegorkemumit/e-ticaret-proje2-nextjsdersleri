@@ -33,3 +33,11 @@
 - 27:32 Card 
 
 
+## Next.js Eğitimi: Shadcn Dialog, Toast ve DataTable Kullanımı | 10. Gün | Proje 2 E-Ticaret Sitesi
+
+- 00:00 Liste
+- 00:22 Shadcn Dialog, Toast Kullanımı
+- 20:16 Shadcn DataTable Kullanımı 
+
+
+
