@@ -27,7 +27,7 @@ const NavMenu = () => {
 
   console.log(pathname)
   return (
-    <div className='flex justify-center items-center py-2 bg-mycolor-300'>
+    <div className='hidden md:flex justify-center items-center py-2 bg-mycolor-300'>
       <NavigationMenu>
         <NavigationMenuList>
           <NavigationMenuItem>
