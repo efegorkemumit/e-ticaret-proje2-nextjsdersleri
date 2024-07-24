@@ -11,10 +11,12 @@ import {
 } from "@/components/ui/dropdown-menu"
 import { MenuIcon } from "lucide-react";
 import Link from "next/link";
+import Hero from "../_components/Hero";
 
 export default function Home() {
   return (
     <div>
+      <Hero/>
      home
     </div>
   );

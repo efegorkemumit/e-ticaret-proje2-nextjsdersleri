@@ -59,3 +59,22 @@ export const sssList:SSsType[] =[
 
 
 ]
+
+export interface CarouselType{
+    id:number;
+    image:string;
+}
+export const CarouselList:CarouselType[]=[
+    {
+        id:1,
+        image:"/slider/5.jpg"
+    },
+    {
+        id:2,
+        image:"/slider/6.jpg"
+    },
+    {
+        id:4,
+        image:"/slider/7.jpg"
+    }
+]
