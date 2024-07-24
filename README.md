@@ -16,3 +16,10 @@
 - 00:00 Liste
 - 00:22 Button, Input Navigation Menu  
 - 21:30 Sheet Mobile Menu Shdcn Kullanım
+
+
+## Next.js Eğitimi: usePathname, useSearchParams ve useRouter Kullanımı | 8. Gün | Proje 2 E-Ticaret Sitesi
+
+- 00:00 Liste
+- 00:22 usePathname  
+- 13:23 useSearchParams Link Userouter

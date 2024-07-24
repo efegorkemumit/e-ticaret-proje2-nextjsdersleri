@@ -12,7 +12,10 @@ const RoutesLayout = ({children}:RoutesLayoutProps) => {
     <>
     <Header/>
 
-    {children}
+<div className='min-h-screen'>
+{children}
+</div>
+ 
 
     <Footer/>
     
