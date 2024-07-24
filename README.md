@@ -23,3 +23,13 @@
 - 00:00 Liste
 - 00:22 usePathname  
 - 13:23 useSearchParams Link Userouter
+
+## Next.js Eğitimi ve Shdcn  |  Accordion,  AlertDialog Carousel, Card | 9. Gün | Proje 2 E-Ticaret Sitesi
+
+- 00:00 Liste
+- 00:22 Accordion, Alert  AlertDialog  
+- 14:18 Avatar Badge Calendar 
+- 15:47 Carousel 
+- 27:32 Card 
+
+
