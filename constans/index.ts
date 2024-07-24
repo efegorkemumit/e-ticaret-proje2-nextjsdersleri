@@ -30,3 +30,32 @@ export const categories: { title: string; href: string; description: string }[] 
         description: "İndirimdeki ürünler, uygun fiyatlarla kaliteli giyim seçenekleri.",
     },
 ]
+
+
+export interface SSsType{
+    id:string;
+    title:string;
+    description:string;
+
+}
+
+
+export const sssList:SSsType[] =[
+    {
+        id: "item-1",
+        title: "Title 1 sss",
+        description: "Son moda erkek giyim ürünleri, takım elbise, tişört, pantolon ve daha fazlası.",
+    },
+    {
+        id: "item-2",
+        title: "Title 2 sss",
+        description: "Son moda erkek giyim ürünleri, takım elbise, tişört, pantolon ve daha fazlası.",
+    },
+    {
+        id: "item-3",
+        title: "Title 3 sss",
+        description: "Son moda erkek giyim ürünleri, takım elbise, tişört, pantolon ve daha fazlası.",
+    }
+
+
+]
