@@ -12,12 +12,13 @@ import {
 import { MenuIcon } from "lucide-react";
 import Link from "next/link";
 import Hero from "../_components/Hero";
+import ProductList from "../_components/Product/ProductList";
 
 export default function Home() {
   return (
     <div>
       <Hero/>
-     home
+     <ProductList/>
     </div>
   );
 }
