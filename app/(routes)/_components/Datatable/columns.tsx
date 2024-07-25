@@ -8,11 +8,11 @@ import { ColumnDef } from "@tanstack/react-table"
 // You can use a Zod schema here if you want.
 export type Payment = {
     id: string
-    product: string
+    product?: string
     amount: number
     status: "pending" | "processing" | "success" | "failed"
     email: string
-    code : string
+    code? : string
 }
 
 export const columns: ColumnDef<Payment>[] = [

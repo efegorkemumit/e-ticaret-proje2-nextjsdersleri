@@ -1,5 +1,5 @@
 import React from 'react'
-import { columns } from '../_components/Datatable/columns'
+import { columns, Payment } from '../_components/Datatable/columns'
 import { DataTable } from '../_components/Datatable/data-table'
 import { Metadata } from 'next'
 

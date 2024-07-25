@@ -68,7 +68,7 @@ const RegisterPage = () => {
       email: "",
       birthDate: "",
       startDate: "",
-      gender: "",
+      gender: undefined,
       jobType: []
     },
   })
