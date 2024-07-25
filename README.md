@@ -40,4 +40,15 @@
 - 20:16 Shadcn DataTable Kullanımı 
 
 
+## Next.js Eğitimi: Form İşlemleri ve Zod ile Login Screen | 11. Gün | Proje 2 E-Ticaret Sitesi
+
+- 00:00 Liste
+- 00:22 Login Screen
+
+
+## Next.js Eğitimi: Form İşlemleri ve Zod ile Register Screen | 12. Gün | Proje 2 E-Ticaret Sitesi 
+
+- 00:00 Liste
+- 00:22 Register Screen
+
 
