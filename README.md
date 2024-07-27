@@ -52,3 +52,23 @@
 - 00:22 Register Screen
 
 
+## Next.js Eğitimi: Next.js Eğitimi: SEO Optimizasyonu ve Metadata Yönetimi | 13. Gün | Proje 2 E-Ticaret Sitesi
+
+- 00:00 Liste
+- 00:22 SEO Optimizasyonu
+
+## Next.js Eğitimi: Vercel Deploy İşlemleri | 14. Gün | Proje 2 E-Ticaret Sitesi"
+
+- 00:00 Liste
+- 00:22 Vercel Deploy
+
+## Next.js Eğitimi: Appwrite, PocketBase, Directus, Strapi ve Supabase Karşılaştırması | 15. Gün | CMS Karşılaştırma
+
+- 00:00 Liste
+- 00:22 CMS Karşılaştırma
+
+
+## Next.js Eğitimi: Shadcn Chart Kullanımı | 16. Gün 
+
+- 00:00 Liste
+- 00:22 Shadcn Chart Kullanımı
